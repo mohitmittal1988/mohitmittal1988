@@ -33,7 +33,18 @@ I enjoy transforming complex AI concepts into practical, scalable solutions that
 
 
 ## ⚡ Tech Stack
+## Tech Stack
 
+**Programming & Tools**  
+`Python` `SQL` `Git` `Docker`
+
+**AI / ML Ecosystem**  
+`LangChain` `LLMs` `RAG` `NLP` `AI Agents` `Machine Learning`
+
+**Domains of Interest**  
+`Applied AI` `Knowledge Systems` `Conversational AI` `Enterprise AI`
+
+---
 ### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
