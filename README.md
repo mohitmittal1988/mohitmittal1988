@@ -33,7 +33,6 @@ I enjoy transforming complex AI concepts into practical, scalable solutions that
 
 
 ## ⚡ Tech Stack
-## Tech Stack
 
 **Programming & Tools**  
 `Python` `SQL` `Git` `Docker`
