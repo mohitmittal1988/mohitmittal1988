@@ -31,17 +31,16 @@ I enjoy transforming complex AI concepts into practical, scalable solutions that
 
 ---
 
-## Tech Stack
 
-**Languages & Tools**  
-`Python` `SQL` `Git` `Docker`
+## ⚡ Tech Stack
 
-**AI / ML**  
-`LLMs` `LangChain` `RAG` `NLP` `Machine Learning` `AI Agents`
-
-**Focus Areas**  
-`Applied AI` `Conversational AI` `Knowledge Systems` `Enterprise AI Solutions`
-
+### Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 ---
 
 ## Featured Projects
