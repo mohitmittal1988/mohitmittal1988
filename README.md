@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohit Mittal 👋
 
-<!--
-**mohitmittal1988/mohitmittal1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI Data Scientist at Smart Labs AI GmbH, focused on designing and delivering practical artificial intelligence solutions for real-world problems.
 
-Here are some ideas to get you started:
+## About me
+- Based in Germany
+- Working on applied AI, LLM-powered applications, and intelligent systems
+- Interested in practical AI solutions that create business impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech interests
+- Python
+- Generative AI
+- RAG
+- LangChain
+- AI agents
+- NLP
+
+## Featured repositories
+- **LangChain-Ollama-Demo** — experiments with LangChain and Ollama
+- **Conversational_RAG** — conversational retrieval-augmented generation workflows
+- **agentic_search** — agent-based search ideas and implementations
+- **text_summary** — text summarization projects
+- **Text_math_solver** — solving math problems from text input
+
+## Current focus
+- Building practical AI systems for real-world use cases
+- Exploring agentic workflows and retrieval-based systems
+- Developing production-oriented AI applications
+
+## Connect with me
+- Website: [mohitmittal1988.github.io/mm](https://mohitmittal1988.github.io/mm)
