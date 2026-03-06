@@ -1,102 +1,131 @@
-# Hi, I'm Mohit Mittal 👋
+<h1 align="center">Hi 👋, I'm Mohit Mittal</h1>
+<h3 align="center">Senior AI Data Scientist | Generative AI | LLMs | RAG | AI Agents</h3>
 
-### Senior AI Data Scientist | Generative AI | LLM Applications | Applied AI Solutions
-
-I’m a Senior AI Data Scientist based in Germany, passionate about building production-ready AI systems that solve real business problems. My work focuses on applied artificial intelligence, large language model applications, retrieval-augmented generation (RAG), and intelligent agent-based workflows.
-
-I enjoy transforming complex AI concepts into practical, scalable solutions that create measurable impact.
-
----
-
-## About Me
-
-- Based in Germany  
-- Senior AI Data Scientist at **Smart Labs AI GmbH**
-- Building **production-oriented AI applications**
-- Focused on **Generative AI**, **LLMs**, **RAG systems**, and **AI agents**
-- Interested in solving business challenges with practical AI solutions
-
----
-
-## Core Expertise
-
-- **Generative AI**
-- **Large Language Models (LLMs)**
-- **Retrieval-Augmented Generation (RAG)**
-- **Agentic AI Workflows**
-- **Natural Language Processing (NLP)**
-- **Applied Machine Learning**
-- **AI Solution Design**
-- **Production AI Systems**
-
----
-
-
-## ⚡ Tech Stack
-
-**Programming & Tools**  
-`Python` `SQL` `Git` `Docker`
-
-**AI / ML Ecosystem**  
-`LangChain` `LLMs` `RAG` `NLP` `AI Agents` `Machine Learning`
-
-**Domains of Interest**  
-`Applied AI` `Knowledge Systems` `Conversational AI` `Enterprise AI`
-
----
-### Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="center">
+  <a href="https://mohitmittal1988.github.io/mm" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mohitmittal1988" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Germany-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Germany" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Collaboration-success?style=for-the-badge&logo=openai&logoColor=white" alt="Open to Collaboration" />
 </p>
----
 
-## Featured Projects
-
-### [LangChain-Ollama-Demo](https://github.com/mohitmittal1988/LangChain-Ollama-Demo)
-Hands-on experiments and implementations using **LangChain** and **Ollama** for building LLM-powered applications.
-
-### [Conversational_RAG](https://github.com/mohitmittal1988/Conversational_RAG)
-A conversational AI project demonstrating **Retrieval-Augmented Generation (RAG)** workflows for context-aware question answering.
-
-### [agentic_search](https://github.com/mohitmittal1988/agentic_search)
-Exploration of **agent-based search systems** designed to improve reasoning and information retrieval.
-
-### [text_summary](https://github.com/mohitmittal1988/text_summary)
-A text summarization project focused on extracting concise, meaningful insights from long-form content.
-
-### [Text_math_solver](https://github.com/mohitmittal1988/Text_math_solver)
-An AI-based solution for solving mathematical problems from text inputs.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitmittal1988&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## Current Focus
+## 💼 Overview
 
-- Building scalable **AI systems for real-world applications**
-- Exploring **agentic workflows** and **autonomous reasoning systems**
-- Designing **RAG pipelines** for knowledge-driven applications
-- Developing **production-ready LLM solutions**
+I’m a **Senior AI Data Scientist** based in **Germany**, specializing in the design and development of **production-ready AI systems**. My work focuses on **Generative AI**, **LLM-powered applications**, **Retrieval-Augmented Generation (RAG)**, and **intelligent agent workflows** that solve real-world business challenges.
 
----
-
-## What I’m Working On
-
-- Applied Generative AI use cases
-- Conversational AI systems
-- Enterprise knowledge assistants
-- Retrieval-based intelligent systems
-- AI solutions that bridge research and business value
+I’m passionate about turning advanced AI capabilities into **practical, scalable, and impactful solutions**.
 
 ---
 
-## Connect With Me
+## 👨‍💻 About Me
 
-- Website: [mohitmittal1988.github.io/mm](https://mohitmittal1988.github.io/mm)
+- Senior AI Data Scientist at **Smart Labs AI GmbH**
+- Based in **Germany**
+- Building **applied AI solutions** for real-world use cases
+- Focused on **LLM applications**, **RAG pipelines**, and **AI agents**
+- Interested in scalable AI systems that deliver measurable business value
 
 ---
 
-## Philosophy
+## 🚀 Core Expertise
 
-> Build AI that is not only intelligent, but useful, scalable, and impactful.
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-Expert-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-Applications-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Systems-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Workflows-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-Projects-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Applied%20ML-Production-critical?style=flat-square" />
+  <img src="https://img.shields.io/badge/Conversational%20AI-Enterprise-blueviolet?style=flat-square" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+</p>
+
+### AI / ML Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
+</p>
+
+### Domains of Interest
+<p align="left">
+  <img src="https://img.shields.io/badge/Applied%20AI-Real%20World%20Use%20Cases-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Knowledge%20Systems-RAG%20Pipelines-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Conversational%20AI-Intelligent%20Assistants-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Enterprise%20AI-Production%20Systems-critical?style=flat-square" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [LangChain-Ollama-Demo](https://github.com/mohitmittal1988/LangChain-Ollama-Demo)
+Demonstrates practical experimentation with **LangChain** and **Ollama** for building local and flexible LLM applications.
+
+### 🔹 [Conversational_RAG](https://github.com/mohitmittal1988/Conversational_RAG)
+A conversational retrieval-augmented generation project focused on context-aware and knowledge-driven AI interactions.
+
+### 🔹 [agentic_search](https://github.com/mohitmittal1988/agentic_search)
+Explores agent-based search workflows for enhanced retrieval, reasoning, and intelligent decision support.
+
+### 🔹 [text_summary](https://github.com/mohitmittal1988/text_summary)
+Summarization-focused AI project for generating concise insights from unstructured text.
+
+### 🔹 [Text_math_solver](https://github.com/mohitmittal1988/Text_math_solver)
+An AI-powered system for solving mathematical problems from text-based input.
+
+---
+
+## 🎯 Current Focus
+
+- Building robust **LLM-powered applications**
+- Designing scalable **RAG architectures**
+- Exploring **agentic AI workflows**
+- Developing practical AI systems for business impact
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitmittal1988&show_icons=true&theme=default&hide_border=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmittal1988&layout=compact&theme=default&hide_border=false" alt="Top languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Website: [mohitmittal1988.github.io/mm](https://mohitmittal1988.github.io/mm)
+
+---
+
+## 💡 Philosophy
+
+> *Building AI solutions that are practical, intelligent, and impactful.*
