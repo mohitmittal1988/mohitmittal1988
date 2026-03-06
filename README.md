@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohit Mittal</h1>
-<h3 align="center">Senior AI Data Scientist | Generative AI | LLMs | RAG | AI Agents</h3>
+<h1 align="center">Hi 👋, I'm Dr. Mohit Mittal</h1>
+<h3 align="center">Senior AI Data Scientist </h3>
 
 <p align="center">
   <a href="https://mohitmittal1988.github.io/mm" target="_blank">
