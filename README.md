@@ -111,14 +111,6 @@ An AI-powered system for solving mathematical problems from text-based input.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitmittal1988&show_icons=true&theme=default&hide_border=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmittal1988&layout=compact&theme=default&hide_border=false" alt="Top languages" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
