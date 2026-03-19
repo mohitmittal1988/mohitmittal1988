@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dr. Mohit Mittal</h1>
-<h3 align="center">Senior AI Data Scientist </h3>
+<h3 align="center">Senior AI /ML Engineer </h3>
 
 <p align="center">
   <a href="https://mohitmittal1988.github.io/mm" target="_blank">
@@ -20,7 +20,7 @@
 
 ## 💼 Overview
 
-I’m a **Senior AI Data Scientist** based in **Germany**, specializing in the design and development of **production-ready AI systems**. My work focuses on **Generative AI**, **LLM-powered applications**, **Retrieval-Augmented Generation (RAG)**, and **intelligent agent workflows** that solve real-world business challenges.
+I’m a **Senior AI /ML Engineer** based in **Germany**, specializing in the design and development of **production-ready AI systems**. My work focuses on **Generative AI**, **LLM-powered applications**, **Retrieval-Augmented Generation (RAG)**, and **intelligent agent workflows** that solve real-world business challenges.
 
 I’m passionate about turning advanced AI capabilities into **practical, scalable, and impactful solutions**.
 
@@ -28,7 +28,7 @@ I’m passionate about turning advanced AI capabilities into **practical, scalab
 
 ## 👨‍💻 About Me
 
-- Senior AI Data Scientist at **Smart Labs AI GmbH**
+- Senior AI /ML Engineer at **Smart Labs AI GmbH**
 - Based in **Germany**
 - Building **applied AI solutions** for real-world use cases
 - Focused on **LLM applications**, **RAG pipelines**, and **AI agents**
